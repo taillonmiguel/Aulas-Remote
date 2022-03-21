@@ -1,0 +1,8 @@
+C:\Users\03979182240\Documents\POO\EstudosRemoto\EstudosRemoto\bin\Debug\EstudosRemoto.exe.config
+C:\Users\03979182240\Documents\POO\EstudosRemoto\EstudosRemoto\bin\Debug\EstudosRemoto.exe
+C:\Users\03979182240\Documents\POO\EstudosRemoto\EstudosRemoto\bin\Debug\EstudosRemoto.pdb
+C:\Users\03979182240\Documents\POO\EstudosRemoto\EstudosRemoto\obj\Debug\EstudosRemoto.csproj.AssemblyReference.cache
+C:\Users\03979182240\Documents\POO\EstudosRemoto\EstudosRemoto\obj\Debug\EstudosRemoto.csproj.SuggestedBindingRedirects.cache
+C:\Users\03979182240\Documents\POO\EstudosRemoto\EstudosRemoto\obj\Debug\EstudosRemoto.csproj.CoreCompileInputs.cache
+C:\Users\03979182240\Documents\POO\EstudosRemoto\EstudosRemoto\obj\Debug\EstudosRemoto.exe
+C:\Users\03979182240\Documents\POO\EstudosRemoto\EstudosRemoto\obj\Debug\EstudosRemoto.pdb
